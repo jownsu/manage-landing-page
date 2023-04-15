@@ -377,8 +377,7 @@ main .container{
         display: flex;
         gap: 30px;
         justify-content: center;
-        margin-bottom: 50px;
-        margin: 0 auto;
+        margin: 0 auto 50px;
         width: calc(540px * 4);
 
         @media only screen and (max-width: $bp-small) {
