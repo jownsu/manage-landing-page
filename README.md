@@ -17,8 +17,8 @@ Users should be able to:
 
 I am pleased to share with you a screenshot of my solution to the manage-landing-page challenge. My goal in designing this landing page was to create a clean, visually appealing interface that provides users with all the information they need in a straightforward and intuitive manner. The page features a prominent call-to-action button, clear and concise information about the product, and a clean layout that is optimized for ease of use. I have also incorporated visual elements such as high-quality images and icons to enhance the overall user experience. I believe that my solution is a significant improvement over traditional landing pages and I am excited to hear your thoughts and feedback.
 
-![](./screenshots/1.png)
-![](./screenshots/2.png)
+![](./screenshots/desktop.png)
+![](./screenshots/mobile.png)
 
 ### Links
 
